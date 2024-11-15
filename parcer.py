@@ -46,6 +46,4 @@ def get_current_weather(url):
 
 
 
-url_to_parse = 'https://sinoptik.ua/погода-киев'
-result = parse_website(url_to_parse)
 
